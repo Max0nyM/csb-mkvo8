@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://max0nym.github.io/csb-mkvo8/static/css/main.b323311f.chunk.css",
+    "main.js": "https://max0nym.github.io/csb-mkvo8/static/js/main.44544eef.chunk.js",
+    "main.js.map": "https://max0nym.github.io/csb-mkvo8/static/js/main.44544eef.chunk.js.map",
+    "runtime-main.js": "https://max0nym.github.io/csb-mkvo8/static/js/runtime-main.10b03187.js",
+    "runtime-main.js.map": "https://max0nym.github.io/csb-mkvo8/static/js/runtime-main.10b03187.js.map",
+    "static/js/2.bb2a218c.chunk.js": "https://max0nym.github.io/csb-mkvo8/static/js/2.bb2a218c.chunk.js",
+    "static/js/2.bb2a218c.chunk.js.map": "https://max0nym.github.io/csb-mkvo8/static/js/2.bb2a218c.chunk.js.map",
+    "index.html": "https://max0nym.github.io/csb-mkvo8/index.html",
+    "static/css/main.b323311f.chunk.css.map": "https://max0nym.github.io/csb-mkvo8/static/css/main.b323311f.chunk.css.map",
+    "static/js/2.bb2a218c.chunk.js.LICENSE.txt": "https://max0nym.github.io/csb-mkvo8/static/js/2.bb2a218c.chunk.js.LICENSE.txt",
+    "static/media/1.7bd917f9.gif": "https://max0nym.github.io/csb-mkvo8/static/media/1.7bd917f9.gif",
+    "static/media/1.9bc7607c.jpg": "https://max0nym.github.io/csb-mkvo8/static/media/1.9bc7607c.jpg",
+    "static/media/buy.4156656c.svg": "https://max0nym.github.io/csb-mkvo8/static/media/buy.4156656c.svg",
+    "static/media/ethereum.56be968d.svg": "https://max0nym.github.io/csb-mkvo8/static/media/ethereum.56be968d.svg",
+    "static/media/metamask.54f39a7f.png": "https://max0nym.github.io/csb-mkvo8/static/media/metamask.54f39a7f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10b03187.js",
+    "static/js/2.bb2a218c.chunk.js",
+    "static/css/main.b323311f.chunk.css",
+    "static/js/main.44544eef.chunk.js"
+  ]
+}
